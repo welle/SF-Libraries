@@ -2,9 +2,6 @@
 
 An easy-to-digest collections of components for Salesforce.
 
-Each directory contain a component or a collection of components with a Readme and a source.zip containing the source of the current component.
-
-
 See also Gists for ideas and practices:
 
 - Improve Lightning Component performance https://gist.github.com/welle/f0e495a42dd166b7c35422da5c4928aa
