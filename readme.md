@@ -4,6 +4,8 @@ An easy-to-digest collections of components for Salesforce.
 
 ## What's new ?
 
+- On 27/01/2025, added Dailymotion support on "Video Player" component [See its readme](<./Video Player/readme.md>).
+
 - On 26/01/2025, added "Video Player" component [See its readme](<./Video Player/readme.md>).
 
 See also Gists for ideas and practices:
