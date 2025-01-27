@@ -8,6 +8,7 @@ An easy-to-digest collections of components for Salesforce.
 
   - Refactored component for downloading CSV [See its readme](<./Button Download CSV/readme.md>).
   - Added button component for downloading XLS [See its readme](<./Button Download XLS/readme.md>).
+  - Added button component for downloading XML [See its readme](<./Button Download XML/readme.md>).
   - Added button component for downloading JSON [See its readme](<./Button Download JSON/readme.md>).
   - Added abstract component for downloading data [See its readme](<./Abstract Button Download Data/readme.md>).
   - Added Dailymotion support on "Video Player" component [See its readme](<./Video Player/readme.md>).
