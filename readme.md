@@ -6,6 +6,9 @@ An easy-to-digest collections of components for Salesforce.
 
 - On 27/01/2025:
 
+  - Refactored component for downloading CSV [See its readme](<./Button Download CSV/readme.md>).
+  - Added button component for downloading XLS [See its readme](<./Button Download XLS/readme.md>).
+  - Added abstract component for downloading data [See its readme](<./Abstract Button Download Data/readme.md>).
   - Added Dailymotion support on "Video Player" component [See its readme](<./Video Player/readme.md>).
 
 - On 26/01/2025:
