@@ -20,6 +20,7 @@ Can be used either on record page, homepage and app page.
 - Optional
 
   - title title to display above the video.
+  - allowModal Allow user to show video in modal ? (default is false)
 
 ### Home page and app page
 
@@ -32,3 +33,4 @@ Can be used either on record page, homepage and app page.
 - Optional
 
   - title title to display above the video.
+  - allowModal Allow user to show video in modal ? (default is false)
