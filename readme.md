@@ -4,6 +4,10 @@ An easy-to-digest collections of components for Salesforce.
 
 ## What's new ?
 
+- On 29/01/2025:
+
+  - Refactored component "Field Access Viewer" [See its readme](<./Field Access Viewer/readme.md>).
+
 - On 27/01/2025:
 
   - Refactored component for downloading CSV [See its readme](<./Button Download CSV/readme.md>).
