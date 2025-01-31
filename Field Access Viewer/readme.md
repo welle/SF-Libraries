@@ -7,6 +7,7 @@
 - 31/01/2025:
 
   - Add column "Type" (Datatype of the field).
+  - Refine queries.
 
 ## Features:
 
