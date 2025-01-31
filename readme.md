@@ -6,7 +6,7 @@ An easy-to-digest collections of components for Salesforce.
 
 - 31/01/2025:
 
-  - Refine queries in component "Field Access Viewer" [See its readme](<./Field Access Viewer/readme.md>).
+  - Added loading spinner and refine queries in component "Field Access Viewer" [See its readme](<./Field Access Viewer/readme.md>).
 
 - 29/01/2025:
 
