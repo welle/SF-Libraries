@@ -4,11 +4,15 @@ An easy-to-digest collections of components for Salesforce.
 
 ## What's new ?
 
-- On 29/01/2025:
+- 31/01/2025:
+
+  - Refine queries in component "Field Access Viewer" [See its readme](<./Field Access Viewer/readme.md>).
+
+- 29/01/2025:
 
   - Refactored component "Field Access Viewer" [See its readme](<./Field Access Viewer/readme.md>).
 
-- On 27/01/2025:
+- 27/01/2025:
 
   - Refactored component for downloading CSV [See its readme](<./Button Download CSV/readme.md>).
   - Added button component for downloading XLS [See its readme](<./Button Download XLS/readme.md>).
@@ -17,7 +21,7 @@ An easy-to-digest collections of components for Salesforce.
   - Added abstract component for downloading data [See its readme](<./Abstract Button Download Data/readme.md>).
   - Added Dailymotion support on "Video Player" component [See its readme](<./Video Player/readme.md>).
 
-- On 26/01/2025:
+- 26/01/2025:
 
   - Added "Video Player" component [See its readme](<./Video Player/readme.md>).
 

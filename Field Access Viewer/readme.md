@@ -8,6 +8,12 @@
 - Download list of records as CSV file.
 - Can be used in Homepage, AppPage and RecordPage. If used on RecordPage, the "Object" combobox will be disabled and set on the current record object.
 
+## What's new ?
+
+- 31/01/2025:
+
+  - Add column "Type" (Datatype of the field).
+
 ## Parameters
 
 ### Record page
