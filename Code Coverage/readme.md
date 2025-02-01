@@ -5,7 +5,17 @@ After running tests, you can view code coverage information in the Tests tab of 
 
 With this component you can have another view of the code coverage.
 
-<img src="docs/sample.png"/>
+<img src="docs/animation.gif"/>
+
+## Features:
+
+- View code coverage by Apex class or trigger.
+- Filter results by:
+  - Coverage percent
+  - Validity (Indicates whether any dependent metadata has changed since the class was last compiled (true) or not (false).)
+  - Status (active or not).
+- Download data as XLS file.
+- Can be used in Homepage, AppPage and RecordPage.
 
 ## Setup
 
