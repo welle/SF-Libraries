@@ -4,6 +4,10 @@ An easy-to-digest collections of components for Salesforce.
 
 ## What's new ?
 
+- 01/02/2025:
+
+  - Refactored component "Code Coverage" [See its readme](<./Code Coverage/readme.md>).
+
 - 31/01/2025:
 
   - Added loading spinner and refine queries in component "Field Access Viewer" [See its readme](<./Field Access Viewer/readme.md>).
