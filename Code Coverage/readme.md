@@ -7,6 +7,13 @@ With this component you can have another view of the code coverage.
 
 <img src="docs/animation.gif"/>
 
+## What's new ?
+
+- 01/02/2025:
+
+  - Added users filter.
+  - Added loading spinner.
+
 ## Features:
 
 - View code coverage by Apex class or trigger.

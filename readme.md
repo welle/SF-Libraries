@@ -6,6 +6,10 @@ An easy-to-digest collections of components for Salesforce.
 
 - 01/02/2025:
 
+  - Added loading spinner and users filter in component "Code Coverage" [See its readme](<./Code Coverage/readme.md>).
+
+- 01/02/2025:
+
   - Refactored component "Code Coverage" [See its readme](<./Code Coverage/readme.md>).
 
 - 31/01/2025:
