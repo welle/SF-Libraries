@@ -1,41 +1,27 @@
-# Lightning Web Component: Video Player
+# Video Player
 
-<img src="docs/animation.gif" alt=""/>
+Provide an video player.
+
+<img src="docs/animation.gif"/>
 
 ## Features:
 
-Youtube and Dailymotion video player.
-Can be used either on record page, homepage and app page.
+- Provide an video player.
+
+## Setup
+
+### Add Org as a trusted url.
+
+In the "URL" set value first to your organisation url.
+
+<img src="docs/trustedUrl.png"/>
 
 ## Parameters
 
-### Record page
-
-<img src="docs/recordPageProperty.png" alt=""/>
-
 - Mandatory
 
-  - recordId current record id (provided by default in a lightning record page).
-  - fieldApiName Field API name containing the Youtube or Dailymotion video URL (including video ID)
+  - videoContentDocumentId Id of the video content document
 
 - Optional
 
-  - title title to display above the video.
-  - allowModal Allow user to show video in modal ? (default is false)
-
-### Home page and app page
-
-<img src="docs/homePageProperty.png" alt=""/>
-
-- Mandatory
-
-  - videoUrl Full URL of the Youtube or Dailymotion video (including video ID).
-
-- Optional
-
-  - title title to display above the video.
-  - allowModal Allow user to show video in modal ? (default is false)
-
-## TODO
-
-- Add Vimeo support.
+  - showDetails true if you want to display the title and file type; false if you don't want to display them. Default is false.

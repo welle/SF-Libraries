@@ -4,34 +4,39 @@ An easy-to-digest collections of components for Salesforce.
 
 ## What's new ?
 
-- 01/02/2025:
+- 04/02/2025
 
-  - Added loading spinner and users filter in component "Code Coverage" [See its readme](<./Code Coverage/readme.md>).
+  - Added "Video Player" component [Readme](<./Video Player/readme.md>).
+  - Added "Audio Player" component [Readme](<./Audio Player/readme.md>).
 
-- 01/02/2025:
+- 01/02/2025
 
-  - Refactored component "Code Coverage" [See its readme](<./Code Coverage/readme.md>).
+  - Added loading spinner and users filter in component "Code Coverage" [Readme](<./Code Coverage/readme.md>).
 
-- 31/01/2025:
+- 01/02/2025
 
-  - Added loading spinner and refine queries in component "Field Access Viewer" [See its readme](<./Field Access Viewer/readme.md>).
+  - Refactored component "Code Coverage" [Readme](<./Code Coverage/readme.md>).
 
-- 29/01/2025:
+- 31/01/2025
 
-  - Refactored component "Field Access Viewer" [See its readme](<./Field Access Viewer/readme.md>).
+  - Added loading spinner and refine queries in component "Field Access Viewer" [Readme](<./Field Access Viewer/readme.md>).
 
-- 27/01/2025:
+- 29/01/2025
 
-  - Refactored component for downloading CSV [See its readme](<./Button Download CSV/readme.md>).
-  - Added button component for downloading XLS [See its readme](<./Button Download XLS/readme.md>).
-  - Added button component for downloading XML [See its readme](<./Button Download XML/readme.md>).
-  - Added button component for downloading JSON [See its readme](<./Button Download JSON/readme.md>).
-  - Added abstract component for downloading data [See its readme](<./Abstract Button Download Data/readme.md>).
-  - Added Dailymotion support on "Video Player" component [See its readme](<./Video Player/readme.md>).
+  - Refactored component "Field Access Viewer" [Readme](<./Field Access Viewer/readme.md>).
 
-- 26/01/2025:
+- 27/01/2025
 
-  - Added "Video Player" component [See its readme](<./Video Player/readme.md>).
+  - Refactored component for downloading CSV [Readme](<./Button Download CSV/readme.md>).
+  - Added button component for downloading XLS [Readme](<./Button Download XLS/readme.md>).
+  - Added button component for downloading XML [Readme](<./Button Download XML/readme.md>).
+  - Added button component for downloading JSON [Readme](<./Button Download JSON/readme.md>).
+  - Added abstract component for downloading data [Readme](<./Abstract Button Download Data/readme.md>).
+  - Added Dailymotion support on "Streaming Player" component [v](<./Streaming Player/readme.md>).
+
+- 26/01/2025
+
+  - Added "Streaming Player" component [Readme](<./Streaming Player/readme.md>).
 
 See also Gists for ideas and practices:
 
