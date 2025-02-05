@@ -4,11 +4,11 @@ Mimic the Salesforce file view extended as an accordion with video player in the
 
 <img src="docs/animation.gif" alt=""/>
 
-## Features:
+## Features
 
 - Mimic the Salesforce file view.
 - Click on file will open the Salesforce file preview.
-- Click on the accordion will show/hide the video player.
+- Click on the accordion will show/hide the video player. When closing the accordion, it will pause the video player.
 
 ## Parameters
 

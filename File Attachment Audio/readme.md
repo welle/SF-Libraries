@@ -4,11 +4,11 @@ Mimic the Salesforce file view extended as an accordion with audio player in the
 
 <img src="docs/animation.gif" alt=""/>
 
-## Features:
+## Features
 
 - Mimic the Salesforce file view.
 - Click on file will open the Salesforce file preview.
-- Click on the accordion will show/hide the audio player.
+- Click on the accordion will show/hide the audio player. When closing the accordion, it will pause the audio player.
 
 ## Parameters
 

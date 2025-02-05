@@ -4,9 +4,9 @@ Provide an video player.
 
 <img src="docs/animation.gif"/>
 
-## Features:
+## Features
 
-- Provide an video player.
+- Provide an video player with public method "pause" and "play".
 
 ## Setup
 

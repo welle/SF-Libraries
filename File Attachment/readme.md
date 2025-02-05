@@ -9,7 +9,7 @@ The section can contain HTML markup or Lightning components.
 
 - Mimic the Salesforce file view.
 - Click on file will open the Salesforce file preview.
-- Click on the accordion will show/hide the content section.
+- Click on the accordion will show/hide the content section and send an event "sectionopen" or "sectionclose".
 
 ## Parameters
 

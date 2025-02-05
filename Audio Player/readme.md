@@ -6,7 +6,7 @@ Provide an audio player.
 
 ## Features:
 
-- Provide an audio player.
+- Provide an audio player with public method "pause" and "play".
 
 ## Setup
 
