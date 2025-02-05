@@ -24,5 +24,5 @@ Mimic the Salesforce file view extended as an accordion with video player in the
 
 ## Dependencies
 
-- "File Attachment" component [Readme](<./File Attachment/readme.md>).
-- "Video Player" component [Readme](<./Video Player/readme.md>).
+- "File Attachment" component [Readme](<./../File Attachment/readme.md>).
+- "Video Player" component [Readme](<./../Video Player/readme.md>).

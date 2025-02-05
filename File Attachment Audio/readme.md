@@ -24,5 +24,5 @@ Mimic the Salesforce file view extended as an accordion with audio player in the
 
 ## Dependencies
 
-- "File Attachment" component [Readme](<./File Attachment/readme.md>).
-- "Audio Player" component [Readme](<./Audio Player/readme.md>).
+- "File Attachment" component [Readme](<./../File Attachment/readme.md>).
+- "Audio Player" component [Readme](<./../Audio Player/readme.md>).
