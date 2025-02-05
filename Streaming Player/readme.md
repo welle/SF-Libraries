@@ -1,10 +1,10 @@
-# Lightning Web Component: Video Player
+# Lightning Web Component: Streaming Player
 
 <img src="docs/animation.gif" alt=""/>
 
 ## Features:
 
-Youtube and Dailymotion video player.
+Youtube and Dailymotion streaming player.
 Can be used either on record page, homepage and app page.
 
 ## Parameters
@@ -16,12 +16,12 @@ Can be used either on record page, homepage and app page.
 - Mandatory
 
   - recordId current record id (provided by default in a lightning record page).
-  - fieldApiName Field API name containing the Youtube or Dailymotion video URL (including video ID)
+  - fieldApiName Field API name containing the Youtube or Dailymotion video URL to stream (including video ID)
 
 - Optional
 
-  - title title to display above the video.
-  - allowModal Allow user to show video in modal ? (default is false)
+  - title title to display above the streaming.
+  - allowModal Allow user to show streaming in modal ? (default is false)
 
 ### Home page and app page
 
@@ -29,12 +29,12 @@ Can be used either on record page, homepage and app page.
 
 - Mandatory
 
-  - videoUrl Full URL of the Youtube or Dailymotion video (including video ID).
+  - videoUrl Full URL of the Youtube or Dailymotion video to stream (including video ID).
 
 - Optional
 
-  - title title to display above the video.
-  - allowModal Allow user to show video in modal ? (default is false)
+  - title title to display above the streaming.
+  - allowModal Allow user to show streaming in modal ? (default is false)
 
 ## TODO
 
