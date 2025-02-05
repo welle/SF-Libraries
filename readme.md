@@ -7,6 +7,8 @@ An easy-to-digest collections of components for Salesforce.
 - 05/02/2025
 
   - Added "File Attachment" component [Readme](<./File Attachment/readme.md>).
+  - Added "File Attachment Audio" component [Readme](<./File Attachment Audio/readme.md>).
+  - Added "File Attachment Video" component [Readme](<./File Attachment Video/readme.md>).
 
 - 04/02/2025
 
