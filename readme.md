@@ -4,6 +4,10 @@ An easy-to-digest collections of components for Salesforce.
 
 ## What's new ?
 
+- 05/02/2025
+
+  - Added "File Attachment" component [Readme](<./File Attachment/readme.md>).
+
 - 04/02/2025
 
   - Added "Video Player" component [Readme](<./Video Player/readme.md>).
