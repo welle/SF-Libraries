@@ -1,6 +1,6 @@
-# Lightning Web Component: File Attachment Audio
+# Lightning Web Component: File Upload Custom
 
-<lightning-file-upload> with a custom css applied.
+"lightning-file-upload" component with a custom css applied.
 
 <img src="docs/animation.gif" alt=""/>
 
