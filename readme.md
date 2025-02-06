@@ -6,6 +6,7 @@ An easy-to-digest collections of components for Salesforce.
 
 - 06/02/2025
 
+  - Added "File Upload Custom" component [Readme](<./File Upload Custom/readme.md>).
   - Added "height" & " width" parameters on "Video Player" component [Readme](<./Video Player/readme.md>).
   - Added "height" & " width" parameters on "File Attachment Video" component [Readme](<./File Attachment Video/readme.md>).
 
