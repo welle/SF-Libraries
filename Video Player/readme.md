@@ -4,9 +4,15 @@ Provide an video player.
 
 <img src="docs/animation.gif"/>
 
+## What's new ?
+
+- 06/02/2025
+
+  - Added "height" & "width" parameters.
+
 ## Features
 
-- Provide an video player with public method "pause" and "play".
+- Provide an video player with public methods "pause" and "play".
 
 ## Setup
 

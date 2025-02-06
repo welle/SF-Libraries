@@ -4,6 +4,11 @@ An easy-to-digest collections of components for Salesforce.
 
 ## What's new ?
 
+- 06/02/2025
+
+  - Added "height" & " width" parameters on "Video Player" component [Readme](<./Video Player/readme.md>).
+  - Added "height" & " width" parameters on "File Attachment Video" component [Readme](<./File Attachment Video/readme.md>).
+
 - 05/02/2025
 
   - Added "File Attachment" component [Readme](<./File Attachment/readme.md>).

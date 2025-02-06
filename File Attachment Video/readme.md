@@ -4,6 +4,12 @@ Mimic the Salesforce file view extended as an accordion with video player in the
 
 <img src="docs/animation.gif" alt=""/>
 
+## What's new ?
+
+- 06/02/2025
+
+  - Added "height" & "width" parameters.
+
 ## Features
 
 - Mimic the Salesforce file view.
