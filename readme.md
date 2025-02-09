@@ -4,6 +4,10 @@ An easy-to-digest collections of components for Salesforce.
 
 ## What's new ?
 
+- 08/02/2025
+
+  - Added "Button Custom Filter" component [Readme](<./Button Custom Filter/readme.md>).
+
 - 06/02/2025
 
   - Added "File Upload Custom" component [Readme](<./File Upload Custom/readme.md>).
