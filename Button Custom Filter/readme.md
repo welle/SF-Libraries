@@ -15,6 +15,6 @@
     Each array entry contains the value of a selected checkbox.
     The value of each checkbox is set in the options attribute.
 
-## Noptification
+## Notifications
 
 - When the "Apply" button is clicked, a "change" notification is dispatched. The event.detail.values contains the checked options.
