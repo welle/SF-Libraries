@@ -26,4 +26,4 @@ Mimic the Salesforce files view with some features.
 - "Video Player" component [Readme](<./../Video Player/readme.md>).
 - "Audio Player" component [Readme](<./../Audio Player/readme.md>).
 - "Button Custom Filter" component [Readme](<./../Button Custom Filter/readme.md>).
-  - "File Upload Custom" component [Readme](<./File Upload Custom/readme.md>).
+- "File Upload Custom" component [Readme](<./File Upload Custom/readme.md>).
