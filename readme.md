@@ -1,8 +1,12 @@
 # Salesforce components Recipes
 
-An easy-to-digest collections of components for Salesforce.
+A collections of components for Salesforce.
 
 ## What's new ?
+
+- 09/02/2025
+
+  - Added "File Attachments" component [Readme](<./File Attachments/readme.md>).
 
 - 08/02/2025
 

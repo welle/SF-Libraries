@@ -16,6 +16,12 @@ Mimic the Salesforce file view extended as an accordion with audio player in the
 
   - audioContentDocumentId Audio Content Document Id.
 
+## Events
+
+- sectionopen : dispatched when the section is opened. `event.detail.value` contains the content document id.
+
+- sectionclose : dispatched when the section is closed. `event.detail.value` contains the content document id.
+
 ## Usage
 
 ```

@@ -21,6 +21,12 @@ The section can contain HTML markup or Lightning components.
 
   - slot content section. Can be empty.
 
+## Events
+
+- sectionopen : dispatched when the section is opened. `event.detail.value` contains the content document id.
+
+- sectionclose : dispatched when the section is closed. `event.detail.value` contains the content document id.
+
 ## Usage
 
 ```
