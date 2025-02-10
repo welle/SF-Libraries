@@ -20,10 +20,10 @@ Mimic the Salesforce files view with some features.
 
   - allowMultipleSectionsOpen If present, the accordion allows multiple open sections. Otherwise, opening a section closes another that's currently open. Default is false;
 
-  ## Dependencies
+## Dependencies
 
-  - "File Attachment" component [Readme](<./../File Attachment/readme.md>).
-  - "Video Player" component [Readme](<./../Video Player/readme.md>).
-  - "Audio Player" component [Readme](<./../Audio Player/readme.md>).
-  - "Button Custom Filter" component [Readme](<./../Button Custom Filter/readme.md>).
-    - "File Upload Custom" component [Readme](<./File Upload Custom/readme.md>).
+- "File Attachment" component [Readme](<./../File Attachment/readme.md>).
+- "Video Player" component [Readme](<./../Video Player/readme.md>).
+- "Audio Player" component [Readme](<./../Audio Player/readme.md>).
+- "Button Custom Filter" component [Readme](<./../Button Custom Filter/readme.md>).
+  - "File Upload Custom" component [Readme](<./File Upload Custom/readme.md>).
