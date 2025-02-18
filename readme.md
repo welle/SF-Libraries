@@ -4,6 +4,10 @@ A collections of components for Salesforce.
 
 ## What's new ?
 
+- 18/02/2025
+
+  - Refactored component "Code Coverage" [Readme](<./Code Coverage/readme.md>).
+
 - 09/02/2025
 
   - Added "File Attachments" component [Readme](<./File Attachments/readme.md>).

@@ -9,6 +9,11 @@ With this component you can have another view of the code coverage.
 
 ## What's new ?
 
+- 18/02/2025:
+
+  - Added view of test classes.
+  - Added viw code with covered/uncovered lines.
+
 - 01/02/2025:
 
   - Added users filter.
